@@ -1,0 +1,24 @@
+{
+  "name": "display-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "@octokit/rest": "^21.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "octokit": "^4.0.2",
+    "simple-git": "^3.25.0"
+  }
+  
+}
